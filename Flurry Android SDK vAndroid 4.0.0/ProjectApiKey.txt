@@ -1,0 +1,2 @@
+Project: cordova-plugin-flurry
+API Key: G56KN4J49YT66CFRD5K6

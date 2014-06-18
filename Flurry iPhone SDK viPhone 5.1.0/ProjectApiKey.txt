@@ -1,0 +1,2 @@
+Project: cordova-plugin-furry
+API Key: 2DYY249X5G798HMF3MTH
